@@ -1,2 +1,3 @@
 # usereducers-react-typescript
-Created with CodeSandbox
+// ReactJs
+// typescript
